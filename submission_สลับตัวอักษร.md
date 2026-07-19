@@ -224,7 +224,7 @@ siraw
 Result:
 
 ```text
-Pass / Not Pass
+Pass 
 ```
 
 ---
